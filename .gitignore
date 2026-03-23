@@ -2,3 +2,6 @@ credentials.json
 config.txt
 .venv
 *.docx
+token.json
+pending_review.html
+agent.log
